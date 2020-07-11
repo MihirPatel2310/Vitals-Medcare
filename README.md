@@ -1,5 +1,5 @@
 # Vitals Medcare
-Hospital Management System using MySQL, Php and Bootstrap
+Vitals Medcare using MySQL, Php and Bootstrap
 
 
 ## Prerequisites
